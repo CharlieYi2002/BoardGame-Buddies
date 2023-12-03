@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Settlers of Catan",
+      "price": 54.99,
+      "link": "https://www.amazon.com/Adventure-Players-Average-Playtime-Minutes/dp/B00U26V4VQ/ref=sr_1_7?crid=E6GMO2WG47GF&keywords=boardgames&qid=1701473720&sprefix=boardgame%2Caps%2C286&sr=8-7&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/71kQ14KmFML._AC_SL1500_.jpg",
+      "topPick": true,
+      "classic": true
+    },
+    {
+      "id": 2,
+      "title": "Splendor",
+      "price": 44.99,
+      "link": "https://www.amazon.com/Asmodee-SPL01-Splendor/dp/B00IZEUFIA/ref=sr_1_3?crid=21GGB23ZBGQ2X&keywords=splendor&qid=1701476601&sprefix=splendo%2Caps%2C167&sr=8-3&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/8127PSclV9S._AC_SL1500_.jpg",
+      "classic": false,
+      "topPick": true
+    },
+    {
+      "id": 3,
+      "title": "Monopoly Deal",
+      "price": 6.99,
+      "link": "https://www.amazon.com/Monopoly-Quick-Playing-Christmas-Stocking-Stuffers/dp/B07H5HFTWC/ref=sr_1_3?crid=2NC6IRWQDXZVB&keywords=mono%2Bdeal&qid=1701476704&sprefix=mono%2Bdeal%2Caps%2C141&sr=8-3&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/81bOswFfrOL._AC_SL1500_.jpg",
+      "classic": false,
+      "topPick": true
+    },
+    {
+      "id": 4,
+      "title": "Jenga",
+      "price": 7.99,
+      "link": "https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA/ref=sr_1_3_sspa?crid=2S8OCBPBRA6Q0&keywords=board%2Bgames%2Bclassics&qid=1701478058&sprefix=boardgamesclassic%2Caps%2C342&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/71en4+xk9RL._AC_SL1500_.jpg",
+      "classic": true,
+      "topPick": false
+    },
+    {
+      "id": 5,
+      "title": "Monopoly",
+      "price": 21.99,
+      "link": "https://www.amazon.com/Monopoly-Family-Board-Players-Tokens/dp/B0B5HLZ8T4/ref=sr_1_6?crid=2S8OCBPBRA6Q0&keywords=board%2Bgames%2Bclassics&qid=1701478058&sprefix=boardgamesclassic%2Caps%2C342&sr=8-6&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/816dE7TY9xL._AC_SL1500_.jpg",
+      "classic": true,
+      "topPick": false
+    },
+    {
+      "id": 6,
+      "title": "Sorry",
+      "price": 21.99,
+      "link": "https://www.amazon.com/Hasbro-Gaming-Brothers-Players-Exclusive/dp/B08QN8T28T/ref=sr_1_7?crid=2S8OCBPBRA6Q0&keywords=board%2Bgames%2Bclassics&qid=1701478058&sprefix=boardgamesclassic%2Caps%2C342&sr=8-7&th=1",
+      "image-link": "https://m.media-amazon.com/images/I/81hjo6PjFsL._AC_SL1500_.jpg",
+      "classic": true,
+      "topPick": false
+    },
+    {
+      "id": 7,
+      "title": "Game of Life",
+      "price": 21.99,
+      "link": "https://www.amazon.com/Hasbro-Gaming-Family-Players-Indoor/dp/B08BHHRSPK/ref=sr_1_8?crid=2S8OCBPBRA6Q0&keywords=board+games+classics&qid=1701478058&sprefix=boardgamesclassic%2Caps%2C342&sr=8-8",
+      "image-link": "https://m.media-amazon.com/images/I/81A0K5YsuxL._AC_SL1500_.jpg",
+      "classic": true,
+      "topPick": false
+    },
+    {
+      "id": 8,
+      "title": "Scrabble",
+      "price": 21.84,
+      "link": "https://www.amazon.com/Hasbro-Gaming-Scrabble-Classic-Refresh/dp/B09D44JH4S/ref=sr_1_9?crid=2S8OCBPBRA6Q0&keywords=board+games+classics&qid=1701478058&sprefix=boardgamesclassic%2Caps%2C342&sr=8-9",
+      "image-link": "https://m.media-amazon.com/images/I/51O+I4BU2PL._AC_SL1000_.jpg",
+      "classic": true,
+      "topPick": false
+    }
+  ]
+  
